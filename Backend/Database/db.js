@@ -1,6 +1,6 @@
 const mongoose=require('mongoose');
 
-const mongourl="mongodb+srv://kunalnishanttyagi:kunalbhai@cluster0.rkurj.mongodb.net/"
+const mongourl="mongodb+srv://kunalnishanttyagi:Rkgit@3333@cluster0.rkurj.mongodb.net/"
 
 mongoose.connect(mongourl,{
     useNewUrlParser: true,
